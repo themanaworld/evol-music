@@ -1,19 +1,23 @@
-All of the musics from this repository are licensed under the Creative Commons licenses.
-Creative Commons can be contacted here: http://creativecommons.org/.
-All authors and works will be displayed as such:
+CC BY 4.0: Licensed under Creative Commons Attribution 4.0 International.
+http://creativecommons.org/licenses/by/4.0/
 
-Name_of_Author (site_of_the_author.org) contributed on:
-* author name - first music name.ogg (License Used - Accessible Source)
-* author name - second music name.ogg (License Used - Accessible Source)
+You must include a link to http://evolonline.org in your credits along with the author's name.
 
-----------------------------------------------------------------------------------------------------------
+For Evol Online contributor and license ressources, check the following links:
+http://wiki.evolonline.org/contributors
+https://www.gitorious.org/evol/clientdata-beta/blobs/master/CONTRIBUTORS
+http://wiki.evolonline.org/license
+https://www.gitorious.org/evol/evol-music/blobs/master/LICENSE
 
-BartK (opengameart.org) worked on:
-* bartk - the adventure begins.ogg (CC BY 3.0 - http://soundcloud.com/lendrick/untitled)
-** Contributor: Socapex
-* bartk - in the forest of the birches.ogg (CC BY 3.0 - http://soundcloud.com/lendrick/the-adventure-begins)
-** Contributor: Socapex
+---------------------------------------------------------------------------------------------------------------------------------
 
-Ezili (woenwhoa.com thelaeva.com) contributed on:
-* ezili - ocean sounds.ogg (CC BY 3.0)
-** Contributor: Socapex
+# Folder
+    authors' nick - music name                               (License)        (Contributors' Nick)
+
+# Gui Icons
+## Flags
+    bartk - in the forest of the birches.ogg                    (CC BY 4.0)       (Socapex)
+    bartk - the adventure begins.ogg                            (CC BY 4.0)       (Socapex)
+    ezili - ocean sounds.ogg                                    (CC BY 4.0)       (Socapex)
+    eric matyas - ghoulish fun.mp3                              (CC BY 4.0)       (-)
+    eric matyas - surreal place.mp3                             (CC BY 4.0)       (-)
