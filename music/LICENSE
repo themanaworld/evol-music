@@ -9,16 +9,54 @@ https://www.gitorious.org/evol/clientdata-beta/blobs/master/CONTRIBUTORS
 http://wiki.evolonline.org/license
 https://www.gitorious.org/evol/evol-music/blobs/master/LICENSE
 
----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Folder
-    authors' nick - music name                               (License)        (Contributors' Nick)
+    Filename.ogg - Nick                    (Original title)                (License)              (Contributor)     [Editor/Year]    (Year)   (Atribution)
 
 # music
-    bartk - in the forest of the birches.ogg                 (CC BY 4.0)        (Socapex)
-    bartk - the adventure begins.ogg                         (CC BY 4.0)        (Socapex)
-    ezili - ocean sounds.ogg                                 (CC BY 4.0)        (Socapex)
-    eric matyas - ghoulish fun.ogg                           (CC BY 4.0)        (Riqqi)
-    eric matyas - surreal place.ogg                          (CC BY 4.0)        (Riqqi)
-    magick - real.ogg                                        (GPLv2)            (-)
-    dariunas - the forest.ogg                                (GPLv2)            (-)
+    academy.ogg - Saturn                   (Peace3)                        (GPLv2)                (Ledmitz)         [-]              (-)      (-)
+    artis.ogg - bartk                      (the adventure begins)          (CC BY 4.0)            (Socapex)         [-]              (2013)   (-)
+    bandit.ogg - Elite                     (candr2)                        (GPLv2, CC BY SA 3.0)  (-)               [Ledmitz/2019]   (2012)   (-)
+    barbarians.ogg - Chicka-Maria          (barbarians)                    (GPLv2, CC BY SA 3.0)  (-)               [Ledmitz/2020]   (2012)   (-)
+    botcheck.ogg - Ledmitz                 (botcheck)                      (CC BY SA 3.0)         (-)               [-]              (2020)   (-)
+    candor.ogg - Chicka-Maria              (in my heart2)                  (GPLv2, CC BY SA 3.0)  (Ledmitz)         [-]              (2012)   (-)
+    cavesong.ogg - finalman and yakslem    (cavesong)                      (GPLv2)                (-)               [Ledmitz/2020]   (-)      (-)
+    chilling.ogg - Yubaba                  (Chilling_Environment)          (GPLv2, CC BY SA 3.0)  (Ledmitz)         [-]              (2011)   (-)
+    cloudcall.ogg - ?                      (Clouds_Calling)                (GPLv2)                (Ledmitz)         [Ledmitz/2019]   (-)      (-)
+    crypt.ogg - Ledmitz                    (OverwhelmedUnderground)        (CC BY SA 3.0)         (-)               [-]              (2011)   (-)
+    despair.ogg - Chicka-Maria             (despair)                       (GPLv2, CC BY SA 3.0)  (-)               [Ledmitz/2020]   (2012)   (-)
+    dimond.ogg - Magick                    (dimonds-cove)                  (GPLv2, CC BY SA 3.0)  (-)               [Ledmitz/2020]   (2008)   (-)
+    explorer.ogg - Chicka-Maria            (explorers-melody)              (GPLv2, CC BY SA 3.0)  (-)               [-]              (-)      (-)
+    faith.ogg - ?                          (faith)                         (GPLv2)                (-)               [-]              (-)      (-)
+    fire.ogg - ?                           (fireplace)                     (CC0)                  (Ledmitz)         [Ledmitz/2020]   (-)      (-)
+    forest.ogg - dariunas                  (the forest)                    (GPLv2)                (-)               [-]              (2008)   (-)
+    ghoulish.ogg - Eric Matyas             (ghoulish fun)                  (CC BY 4.0)            (Riqqi)           [Ledmitz/2020]   (2015)   (-)
+    graveyard.ogg - feline monstrosity     (graveyard)                     (GPLv2)                (-)               [-]              (2009)   (-)
+    hurns.ogg - Ledmitz                    (Hurnscald)                     (CC BY SA 3.0)         (-)               [-]              (2020)   (-)
+    johanne.ogg - bartk                    (in the forest of the birches)  (CC BY 4.0)            (Socapex)         [-]              (2013)   (-)
+    marine.ogg - Chicka-Maria              (sail-away)                     (GPLv2, CC BY SA 3.0)  (-)               [-]              (2014)   (-)
+    mystique.ogg - Chicka-Maria            (mystique-forest)               (GPLv2, CC BY SA 3.0)  (-)               [-]              (2013)   (-)
+    nightcall.ogg - Chicka-Maria           (night-is-calling)              (GPLv2, CC BY SA 3.0)  (-)               [Ledmitz/2020]   (-)      (-)
+    nivalis.ogg - Magick                   (snow-village)                  (GPLv2, CC BY SA 3.0)  (-)               [-]              (2008)   (-)
+    ocean.ogg - ?                          (gentle-ocean-waves...)         (CC0)                  (Ledmitz)         [Ledmitz/2020]   (-)      (-)
+    peace.ogg - Doulos                     (Irene)                         (GPLv2)                (-)               [-]              (2004)   (-)
+    real.ogg - Magick                      (magick-real)                   (GPLv2, CC BY SA 3.0)  (-)               [-]              (2003)   (-)
+    reid.ogg - Chicka-Maria                (inquisitive-inn)               (GPLv2, CC BY SA 3.0)  (-)               [-]              (-)      (-)
+    sewer.ogg - Ledmitz                    (SewerAmbience)                 (CC BY SA 3.0)         (Ledmitz)         [-]              (2018)   (-)
+    store.ogg - Ledmitz                    (StoreAmbience)                 (CC BY SA 3.0)         (Ledmitz)         [-]              (2020)   (-)
+    surreal.ogg - Eric Matyas              (surreal place)                 (CC BY 4.0)            (Riqqi)           [-]              (2015)   (-)
+    swamp.ogg - Ledmitz                    (DrearyDay)                     (CC BY SA 3.0)         (-)               [-]              (2011)   (-)
+    thunderstorm.ogg - ?                   (thundersorm)                   (CC0)                  (Jesusalva)       [-]              (-)      (-)
+    waterlude.ogg - Kevin MacLeod          (water_prelude)                 (CC BY 3.0)            (Jesusalva)       [-]              (-)      (-)
+    xmas.ogg - Chicka-Maria                (white-christmas)               (GPLv2, CC BY SA 3.0)  (-)               [-]              (-)      (-)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+***AKA***
+Magick / Aasif Chaudry
+Chicka-Maria / Yubaba / Jose. S & Dakota. D
+dariunas / dariuna
+Ledmitz / S. Lowe
+Saturn / Nikola Whallon
+
